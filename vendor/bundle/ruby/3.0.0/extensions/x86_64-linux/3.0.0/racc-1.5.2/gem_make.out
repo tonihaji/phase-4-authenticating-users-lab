@@ -1,0 +1,16 @@
+current directory: /home/moringa/Desktop/Development/code/Phase-4/phase-4-authenticating-users-lab/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+/home/moringa/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/moringa/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20230330-6133-t3vqgj.rb extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/moringa/Desktop/Development/code/Phase-4/phase-4-authenticating-users-lab/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /home/moringa/Desktop/Development/code/Phase-4/phase-4-authenticating-users-lab/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/moringa/Desktop/Development/code/Phase-4/phase-4-authenticating-users-lab/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -m 0755 cparse.so ./.gem.20230330-6133-r5ujz/racc

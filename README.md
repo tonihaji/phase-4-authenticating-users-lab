@@ -13,8 +13,8 @@ There is some starter code in place for a Rails API backend and a React frontend
 To get set up, run:
 
 ```console
-$ bundle install
-$ rails db:migrate db:seed
+$ bundle installrails db:migrate db:seed
+$ 
 $ npm install --prefix client
 ```
 
